@@ -2,7 +2,7 @@
 
 ## Author
 
-Andrew Stewardson (andrew-stewardson)
+Andrew Stewardson (@andrew-stewardson)
 
 ## Purpose
 
