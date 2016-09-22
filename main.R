@@ -1,7 +1,4 @@
 # PURPOSE: Maps of isolates in Victoria
-#
-# DATE STARTED: 20.09.2016
-# DATE UPDATED: 22/09/2016
 
 ### SET-UP ----------------------------------------------------------------------
 
